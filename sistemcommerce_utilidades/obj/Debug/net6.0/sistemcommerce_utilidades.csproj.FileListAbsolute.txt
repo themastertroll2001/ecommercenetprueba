@@ -1,0 +1,4 @@
+C:\Users\Juan\Documents\Visual Studio 2022\sistemcommerce\sistemcommerce_utilidades\obj\Debug\net6.0\sistemcommerce_utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Visual Studio 2022\sistemcommerce\sistemcommerce_utilidades\obj\Debug\net6.0\sistemcommerce_utilidades.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Visual Studio 2022\sistemcommerce\sistemcommerce_utilidades\obj\Debug\net6.0\sistemcommerce_utilidades.AssemblyInfo.cs
+C:\Users\Juan\Documents\Visual Studio 2022\sistemcommerce\sistemcommerce_utilidades\obj\Debug\net6.0\sistemcommerce_utilidades.csproj.CoreCompileInputs.cache
